@@ -1,0 +1,26 @@
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Beehive\Documents\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Beehive\Documents\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Keneseuu\Documents\ASP.NET MVC Tutorial\ASP.Net Core\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb

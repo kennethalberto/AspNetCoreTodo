@@ -1,0 +1,55 @@
+@model ManageUsersViewModel
+
+@{
+    ViewData["Title"] = "Manage users";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Administrators</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Email</td>
+            <td>Action</td>
+        </tr>
+    </thead>
+
+    @foreach (var user in Model.Administrators)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Email</td>
+            @if (@ViewData["UserId"] != @user.Id)
+            {
+                <td><button type="button" class="btn btn-danger delete-user-button" name="@user.Id">Delete</button></td>
+            }
+        </tr>
+    }
+</table>
+
+<h3>Everyone</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Email</td>
+            <td>Action</td>
+        </tr>
+    </thead>
+
+    @foreach (var user in Model.Everyone)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Email</td>
+            @if (@ViewData["UserId"] != @user.Id)
+            {
+                <td><button type="button" class="btn btn-danger delete-user-button" name="@user.Id">Delete</button></td>
+            }
+        </tr>
+    }
+</table>
